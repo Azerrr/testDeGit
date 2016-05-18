@@ -3,8 +3,8 @@
 
 void main ()
 {
-	int a = -8;
+	int d = -8;
 	int b = -4;
-	int c = min(a, b);
+	int c = min(d, b);
 	printf("%i\n", c);
 }

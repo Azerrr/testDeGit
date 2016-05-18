@@ -3,8 +3,8 @@
 
 void main ()
 {
-	int a = -8;
-	int b = 18;
-	int c = min(a, b);
-	printf("%i\n", c);
+	int RemiEstUnGrosCon = -8;
+	int MaximeEstTresBeau = 18;
+	int erminable = min(RemiEstUnGrosCon, MaximeEstTresBeau);
+	printf("%i\n", erminable);
 }

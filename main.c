@@ -4,7 +4,7 @@
 void main ()
 {
 	int d = -8;
-	int b = -4;
-	int c = min(d, b);
+	int b = 18;
+	int c = min(a, b);
 	printf("%i\n", c);
 }

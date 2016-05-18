@@ -5,7 +5,7 @@ void main ()
 {
 	int d = -8;
 	int b = 18;
-	int c = min(a, b);
+	int c = min(d, b);
 	printf("%i\n", c);
 	int RemiEstUnGrosCon = -8;
 	int MaximeEstTresBeau = 18;

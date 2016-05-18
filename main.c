@@ -7,8 +7,8 @@ void main ()
 	int b = 18;
 	int c = min(d, b);
 	printf("%i\n", c);
-	int RemiEstUnGrosCon = -8;
-	int MaximeEstTresBeau = 18;
-	int erminable = min(RemiEstUnGrosCon, MaximeEstTresBeau);
-	printf("Nouvelle branche\n", erminable);
+	int r = -8;
+	int m = 18;
+	int e = min(r, m);
+	printf("Nouvelle branche\n");
 }

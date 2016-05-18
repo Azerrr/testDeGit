@@ -7,4 +7,8 @@ void main ()
 	int b = 18;
 	int c = min(a, b);
 	printf("%i\n", c);
+	int RemiEstUnGrosCon = -8;
+	int MaximeEstTresBeau = 18;
+	int erminable = min(RemiEstUnGrosCon, MaximeEstTresBeau);
+	printf("Donc le meilleur est : %i\n", erminable);
 }
